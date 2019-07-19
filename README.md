@@ -1,2 +1,2 @@
 # Terraform-aws
-Contain terraform aws configureation files
+Contain terraform aws configuration files
