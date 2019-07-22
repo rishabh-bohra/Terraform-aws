@@ -1,13 +1,13 @@
 # Terraform-aws
 Contain terraform aws configuration files
 
-To run these templates go inside a folder i.e (aws-vpc , aws-ec2) and run command
+## To run these templates go inside a folder i.e (aws-vpc , aws-ec2) and run command
 
 ```bash
 terraform apply
 ```
 
-### If u dont want to enter aws access key , secret key details maually then go inside 
+## If u dont want to enter aws access key , secret key details maually then go inside 
 ```bash
 aws-ec2/vars.tf
 ```
