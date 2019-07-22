@@ -11,6 +11,10 @@ terraform apply
 ```bash
 aws-ec2/vars.tf
 ```
+and
+```bash
+aws-vpc/variables.tf
+```
 ### And write in access key variable 
 ```bash
 default = "your access key"
