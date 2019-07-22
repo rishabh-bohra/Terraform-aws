@@ -14,7 +14,7 @@ aws-ec2/vars.tf
 ### And write in access key variable 
 ```bash
 default = "your access key"
-``
+```
 ### And in secret key variable 
 ```bash
 default = "your secret key"
